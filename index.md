@@ -29,16 +29,24 @@
             <li>서비스디자인 정의</li>
             <li>경험디자인 정의</li>
         </ol>
+        <h4 style="margin-left:5%">프로세스와 방법론</h4>
+        <ol>
+            <li>서비스디자인 프로세스 이해</li>
+            <li>서비스디자인 방법론(툴킷) 이해</li>
+            <li>경험디자인의 특징</li>
+            <li>UI의 정의와 기본원칙 이해</li>
+            <li>사용성 평가의 개념 이해</li>
+        </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
             3) 서비스·경험디자인 요구사항 파악
         </summary>
-        <h4 style="margin-left:5%">정의</h4>
+        <h4 style="margin-left:5%">요구사항 파악</h4>
         <ol>
-            <li>디자인씽킹의 정의</li>
-            <li>서비스디자인 정의</li>
-            <li>경험디자인 정의</li>
+            <li>프로젝트 요구사항 파악</li>
+            <li>디자인 목적 파악</li>
+            <li>디자인 수요자 파악</li>
         </ol>
     </details>
     <details style="margin-left:5%">
