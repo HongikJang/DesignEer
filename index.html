@@ -1,29 +1,44 @@
 <!DOCTYPE html>
+html{
+-webkit-text-size-adjust:none;
+}
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0,minimum-scale=1.0">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0,minimum-scale=1.0">
     <title>서비스디자인/경험디자인 기사 용어해설집</title>
     <style>
-        div {
-        }
-        .rounded{
-            border-radius:15px
+        div {}
+
+        .rounded {
+            border-radius: 15px
         }
 
+        html {
+            /* Prevent font scaling in landscape */
+            -webkit-text-size-adjust: none;
+            /*Chrome, Safari, newer versions of Opera*/
+            -moz-text-size-adjust: none;
+            /*Firefox*/
+            -ms-text-size-adjust: none;
+            /*Ie*/
+            -o-text-size-adjust: none;
+            /*old versions of Opera*/
+        }
 
-        .head {
+        [출처] 모바일 웹 폰트 크기 자동조정 문제 (text-size-adjust)|작성자 dlaskarud2 .head {
             background: pink;
             width: 100%;
             text-align: center;
             margin: auto;
             grid-template-columns: 200px;
-            
+
         }
 
         .body {
-        
+
             margin: auto;
         }
 
@@ -33,25 +48,31 @@
             grid-gap: 10px;
             grid-auto-rows: minmax(100px, auto);
         }
-        .one{/*제목*/
-            grid-column-start:1;
-            grid-column-end:2;
-            grid-row-start:1;
-            grid-row-end:2;
+
+        .one {
+            /*제목*/
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 1;
+            grid-row-end: 2;
         }
-        .two{/*페이지 설명*/
-            grid-column-start:2;
-            grid-column-end:5;
-            grid-row-start:1;
-            grid-row-end:2;
+
+        .two {
+            /*페이지 설명*/
+            grid-column-start: 2;
+            grid-column-end: 5;
+            grid-row-start: 1;
+            grid-row-end: 2;
 
         }
-        .three{/*목차*/
-            grid-column-start:2;
-            grid-column-end:5;
-            grid-row-start:1;
-            grid-row-end:2;
-        
+
+        .three {
+            /*목차*/
+            grid-column-start: 2;
+            grid-column-end: 5;
+            grid-row-start: 1;
+            grid-row-end: 2;
+
         }
 
         details {
@@ -62,11 +83,12 @@
 
 <body>
     <div id='wrapper'>
-        <div class="head one rounded">
+        <div class="head one rounded html">
             <h1>UX용어해설집</h1>
         </div>
-        <div class="body two rounded" style="text-align:center;"> 시험을 대비하여 콘텐츠 정리 중 키워드북에 없는 내용을 추가하여 통합하려고 제작하였습니다.</div>
-        <div class="body;">
+        <div class="body two rounded html" style="text-align:center;"> 시험을 대비하여 콘텐츠 정리 중 키워드북에 없는 내용을 추가하여 통합하려고 제작하였습니다.
+        </div>
+        <div class="body rounded html;">
             <details>
                 <summary>단계별 보기</summary>
                 <details style="margin-left:5%">
