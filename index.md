@@ -5,16 +5,16 @@
 
 
 
-<details style="margin-left:100px">
+<details style="margin-left:5%">
     <summary>
         단계별 보기
     </summary>
-    <details style="margin-left:100px">
+    <details style="margin-left:5%">
         <summary>
             기획 단계
         </summary>
     </details>
-    <details style="margin-left:100px">
+    <details style="margin-left:5%">
         <summary>
             발견 단계
         </summary>
