@@ -12,16 +12,23 @@
         <summary>
             1) 디자인 개요
         </summary>
-        <ul>
+        #### 디자인 일반
+        <ol>
             <li>디자인의 개념 및 정의</li>
             <li>디자인의 분류 및 특성</li>
             <li>디자인의 사회적 기능과 윤리</li>
-        </ul>
+        </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
             2) 서비스·경험디자인의 이해
         </summary>
+        #### 정의
+        <ol>
+            <li>디자인씽킹의 정의</li>
+            <li>서비스디자인 정의</li>
+            <li>경험디자인 정의</li>
+        </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
