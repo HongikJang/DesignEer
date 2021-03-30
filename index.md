@@ -5,7 +5,7 @@
 
 
 
-<details style="margin-left:2%">
+<details style="margin-left:100px">
     <summary>
         단계별 보기
     </summary>
