@@ -6,7 +6,7 @@
 
 <details style="margin-left:5%">
     <summary>
-        서비스/경험디자인 기획설계
+        서비스·경험디자인 기획설계
     </summary>
     <details style="margin-left:5%">
         <summary>
@@ -15,22 +15,22 @@
     </details>
     <details style="margin-left:5%">
         <summary>
-            2. 서비스 경험디자인의 이해
+            2. 서비스·경험디자인의 이해
         </summary>
     </details>
     <details style="margin-left:5%">
         <summary>
-            3. 정의 단계 - Define
+            3. 서비스·경험디자인 요구사항 파악
         </summary>
     </details>
     <details style="margin-left:5%">
         <summary>
-            4. 개발 단계 - Develop
+            4. 서비스·경험디자인 수행계획 수립
         </summary>
     </details>
     <details style="margin-left:5%">
         <summary>
-            5. 전달 단계 - Deliver
+            5. 설문설계
         </summary>
     </details>
 </details>
