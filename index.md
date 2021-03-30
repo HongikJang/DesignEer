@@ -10,31 +10,32 @@
     </summary>
     <details style="margin-left:5%">
         <summary>
-            1. 디자인 개요
+            1) 디자인 개요
         </summary>
-        <ol>
-            <li>시험용1</li>
-            <li>시험용2</li>
-        </ol>
+        <ul>
+            <li>디자인의 개념 및 정의</li>
+            <li>디자인의 분류 및 특성</li>
+            <li>디자인의 사회적 기능과 윤리</li>
+        </ul>
     </details>
     <details style="margin-left:5%">
         <summary>
-            2. 서비스·경험디자인의 이해
-        </summary>
-    </details>
-    <details style="margin-left:5%">
-        <summary>
-            3. 서비스·경험디자인 요구사항 파악
+            2) 서비스·경험디자인의 이해
         </summary>
     </details>
     <details style="margin-left:5%">
         <summary>
-            4. 서비스·경험디자인 수행계획 수립
+            3) 서비스·경험디자인 요구사항 파악
         </summary>
     </details>
     <details style="margin-left:5%">
         <summary>
-            5. 설문설계
+            4) 서비스·경험디자인 수행계획 수립
+        </summary>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            5) 설문설계
         </summary>
     </details>
 </details>
