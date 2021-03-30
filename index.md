@@ -48,11 +48,28 @@
             <li>디자인 목적 파악</li>
             <li>디자인 수요자 파악</li>
         </ol>
+    <h4 style="margin-left:5%">과제 분석</h4>
+        <ol>
+            <li>서비스 요구사항 파악</li>
+            <li>요구사항 요건수립</li>
+            <li>서비스 요구사항 정리</li>
+            <li>시각화 자료 작성</li>
+        </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
             4) 서비스·경험디자인 수행계획 수립
         </summary>
+        <h4 style="margin-left:5%">수행계획 수립</h4>
+        <ol>
+            <li>프로젝트 목표 파악</li>
+            <li>일정별 계획 정리</li>
+        </ol>
+        <h4 style="margin-left:5%">과제 관리체계 수립</h4>
+        <ol>
+            <li>단계별 산출물 체크리스트 작성</li>
+            <li>개인정보보호 원칙 이해</li>
+        </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
@@ -61,7 +78,7 @@
     </details>
 </details>
 
-<details style="margin-left:5%">
+/*<details style="margin-left:5%">
     <summary>
         단계별 보기
     </summary>
@@ -90,4 +107,4 @@
             전달 단계 - Deliver
         </summary>
     </details>
-</details>
+</details>*/
