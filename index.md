@@ -1,10 +1,8 @@
-<head>
-    <style>
-        details{
-            margin-left:2%;
-        }
-    </style>
-</head>
+<style>
+    details {
+        margin-left: 2%;
+    }
+</style>
 
 # UX위키
 
