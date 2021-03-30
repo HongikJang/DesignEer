@@ -75,36 +75,10 @@
         <summary>
             5) 설문설계
         </summary>
+        <h4 style="margin-left:5%">설문 설계 및 완성</h4>
+        <ol>
+            <li>개별 설문 시안 작성</li>
+            <li>설문 항목 구조화 및 작성</li>
+        </ol>
     </details>
 </details>
-
-/*<details style="margin-left:5%">
-    <summary>
-        단계별 보기
-    </summary>
-    <details style="margin-left:5%">
-        <summary>
-            기획 단계
-        </summary>
-    </details>
-    <details style="margin-left:5%">
-        <summary>
-            발견 단계 - Discover
-        </summary>
-    </details>
-    <details style="margin-left:5%">
-        <summary>
-            정의 단계 - Define
-        </summary>
-    </details>
-    <details style="margin-left:5%">
-        <summary>
-            개발 단계 - Develop
-        </summary>
-    </details>
-    <details style="margin-left:5%">
-        <summary>
-            전달 단계 - Deliver
-        </summary>
-    </details>
-</details>*/
