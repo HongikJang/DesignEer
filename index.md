@@ -295,5 +295,113 @@
     </details>
 </details>
 
+<details style="margin-left:5%">
+    <summary>
+        서비스·경험디자인 개발 및 운영
+    </summary>
+    <details style="margin-left:5%">
+        <summary>
+            1) 디자인 권리
+        </summary>
+        <h4 style="margin-left:5%">지적재산권</h4>
+        <ol>
+            <li>지적재산권 이해[상표권, 특허권(BM 포함), 디자인 출원, 저작권 등록 등]</li>
+            <li>지식재산권 기본절차</li>
+        </ol>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            2) 서비스·경험디자인 프로토타입 평가
+        </summary>
+        <h4 style="margin-left:5%">서비스·경험디자인 프로토타입 평가계획</h4>
+        <ol>
+            <li>프로토타입 평가 방법 계획</li>
+            <li>사용자 평가 참여자 구성</li>
+        </ol>
+        <h4 style="margin-left:5%">서비스·경험디자인 프로토타입 평가하기</h4>
+        <ol>
+            <li>프로토타입 시뮬레이션 평가</li>
+            <li>사용성 평가 도출</li>
+            <li>개선 방향 수립</li>
+            <li>평가 결과 문서화</li>
+        </ol>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            3) 서비스·경험디자인 모델개발
+        </summary>
+        <h4 style="margin-left:5%">서비스·경험디자인 요구사항 정의</h4>
+        <ol>
+            <li>디자인(문제해결) 목표 수립</li>
+            <li>친화도맵(어피니티 다이어그램) 작성</li>
+            <li>요구사항 정리(정보 시각화)</li>
+        </ol>
+        <h4 style="margin-left:5%">핵심 사용자 정의</h4>
+        <ol>
+            <li>핵심 사용자 유형 설정</li>
+            <li>핵심 사용자 요구분석</li>
+            <li>핵심 사용자 경험특성 도출</li>
+        </ol>
+        <h4 style="margin-left:5%">디자인 콘셉트 도출</h4>
+        <ol>
+            <li>디자인 원칙 정의</li>
+            <li>디자인 콘셉트 제안</li>
+            <li>디자인 콘셉트 시각화</li>
+        </ol>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            4) 서비스·경험디자인 아이데이션
+        </summary>
+        <h4 style="margin-left:5%">아이디어 워크숍</h4>
+        <ol>
+            <li>아이디어 워크숍 계획</li>
+            <li>아이디어 워크숍 진행(퍼실리테이션 기술)</li>
+            <li>서비스 아이디어 도출</li>
+            <li>아이디어 평가 및 결과 정리</li>
+        </ol>
+        <h4 style="margin-left:5%">아이디어 구체화</h4>
+        <ol>
+            <li>서비스 아이디어 설명</li>
+            <li>서비스 아이디어 시각화</li>
+            <li>서비스 아이디어 평가 및 확정</li>
+        </ol>
+        <h4 style="margin-left:5%">서비스·경험 구조화</h4>
+        <ol>
+            <li>단계별 서비스 접점(터치포인트) 정의</li>
+            <li>사용자 서비스 설계</li>
+        </ol>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            5) 서비스·경험디자인 프로토타입 개발
+        </summary>
+        <h4 style="margin-left:5%">서비스·경험디자인 프로토타입 기획·설계</h4>
+        <ol>
+            <li>프로토타입 기획</li>
+            <li>프로토타입 모델설계</li>
+            <li>프로토타입 제작 계획 수립</li>
+        </ol>
+        <h4 style="margin-left:5%">서비스·경험 프로토타입 제작</h4>
+        <ol>
+            <li>프로토타입 모델링</li>
+            <li>프로토타입 시뮬레이션</li>
+        </ol>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            6) 서비스·경험디자인 시나리오 개발
+        </summary>
+        <h4 style="margin-left:5%">서비스·경험 시나리오 계획·제작</h4>
+        <ol>
+            <li>서비스 시나리오 계획</li>
+            <li>페르소나 상황설정</li>
+            <li>신규 서비스 상황구성</li>
+            <li>서비스 스토리보드 제작</li>
+            <li>타당성 평가 및 개선방안 수립</li>
+        </ol>
+    </details>
+</details>
+
 ### 인덱스(Ctrl+F 활용 용도)
 아직 미구현되었습니다.
