@@ -3,7 +3,7 @@
 보다 나은 UX스터디 작업환경을 위하여 만들어놓은 페이지입니다. 추가 설명이 필요한 자료는 여기에 지속적으로 추가될 예정입니다.
 
 
-
+## 필기고사
 <details style="margin-left:5%">
     <summary>
         서비스·경험디자인 기획설계
@@ -144,27 +144,38 @@
     </details>
     <details style="margin-left:5%">
         <summary>
-            4) 서비스·경험디자인 수행계획 수립
+            4) FGI정성조사
         </summary>
-        <h4 style="margin-left:5%">수행계획 수립</h4>
+        <h4 style="margin-left:5%">FGI 설계</h4>
         <ol>
-            <li>프로젝트 목표 파악</li>
-            <li>일정별 계획 정리</li>
+            <li>조사목적에 따른 인터뷰 주제선정</li>
+            <li>FGI 대상자 선정</li>
+            <li>FGI 질문지 선정</li>
         </ol>
-        <h4 style="margin-left:5%">과제 관리체계 수립</h4>
+        <h4 style="margin-left:5%">FGI 실시</h4>
         <ol>
-            <li>단계별 산출물 체크리스트 작성</li>
-            <li>개인정보보호 원칙 이해</li>
+            <li>시범(파일럿) 인터뷰 진행</li>
+            <li>FGI 내용 기록(스크립트기록, 녹화, 녹음 등)</li>
+            <li>FGI 내용 정리 및 분류</li>
+            <li>결과 도출 및 정리</li>
         </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
-            5) 설문설계
+            5) 심층인터뷰 정성조사
         </summary>
-        <h4 style="margin-left:5%">설문 설계 및 완성</h4>
+        <h4 style="margin-left:5%">심층인터뷰 설계</h4>
         <ol>
-            <li>개별 설문 시안 작성</li>
-            <li>설문 항목 구조화 및 작성</li>
+            <li>조사목적에 따른 설문내용 구체화</li>
+            <li>심층인터뷰 대상자 선정</li>
+            <li>심층인터뷰 진행 지침 작성</li>
+        </ol>
+        <h4 style="margin-left:5%">심층인터뷰 실시</h4>
+        <ol>
+            <li>심층인터뷰 동의 절차 수행</li>
+            <li>심층인터뷰 내용 기록</li>
+            <li>심층인터뷰 내용 정리 및 분류</li>
+            <li>심층인터뷰 진행 지침에 따른 진행</li>
         </ol>
     </details>
 </details>
