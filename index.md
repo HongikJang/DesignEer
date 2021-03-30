@@ -8,8 +8,10 @@
     </summary>
     <details>
         <summary>
-            발견 단계
+            기획 단계
         </summary>
+    </details>
+    <details>
         <summary>
             발견 단계
         </summary>
