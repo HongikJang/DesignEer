@@ -180,5 +180,97 @@
     </details>
 </details>
 
+<details style="margin-left:5%">
+    <summary>
+        사용자 중심 전략 수립
+    </summary>
+    <details style="margin-left:5%">
+        <summary>
+            1) 서비스·경험디자인 환경분석
+        </summary>
+        <h4 style="margin-left:5%">서비스 환경 이해</h4>
+        <ol>
+            <li>서비스 환경 분석</li>
+            <li>서비스 모델 분석</li>
+            <li>환경 분석 종합</li>
+        </ol>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            2) 서비스·경험디자인 대상분석
+        </summary>
+        <h4 style="margin-left:5%">가상 사용자(페르소나) 설정</h4>
+        <ol>
+            <li>가상 사용자(페르소나) 유형 설정</li>
+            <li>가상 사용자별 경험 특성 항목 설정</li>
+            <li>경험시나리오 작성</li>
+        </ol>
+        <h4 style="margin-left:5%">사용자 여정 분석</h4>
+        <ol>
+            <li>서비스 경험단계 유형화</li>
+            <li>서비스 경험 여정맵 시각화</li>
+        </ol>
+        <h4 style="margin-left:5%">이해관계자 분석</h4>
+        <ol>
+            <li>이해관계자 선별</li>
+            <li>이해관계자 역할 정의</li>
+            <li>이해관계자 요구사항 파악</li>
+            <li>이해관계자 맵 시각화</li>
+        </ol>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            3) 서비스·경험디자인 원칙수립
+        </summary>
+        <h4 style="margin-left:5%">서비스·경험디자인 요구사항 정의</h4>
+        <ol>
+            <li>디자인(문제해결) 목표 수립</li>
+            <li>친화도맵(어피니티 다이어그램) 작성</li>
+            <li>요구사항 정리(정보 시각화)</li>
+        </ol>
+        <h4 style="margin-left:5%">면접조사 실시</h4>
+        <ol>
+            <li>시범면접 진행 및 보완</li>
+            <li>면접조사 기술 및 결과정리</li>
+        </ol>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            4) FGI정성조사
+        </summary>
+        <h4 style="margin-left:5%">FGI 설계</h4>
+        <ol>
+            <li>조사목적에 따른 인터뷰 주제선정</li>
+            <li>FGI 대상자 선정</li>
+            <li>FGI 질문지 선정</li>
+        </ol>
+        <h4 style="margin-left:5%">FGI 실시</h4>
+        <ol>
+            <li>시범(파일럿) 인터뷰 진행</li>
+            <li>FGI 내용 기록(스크립트기록, 녹화, 녹음 등)</li>
+            <li>FGI 내용 정리 및 분류</li>
+            <li>결과 도출 및 정리</li>
+        </ol>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            5) 심층인터뷰 정성조사
+        </summary>
+        <h4 style="margin-left:5%">심층인터뷰 설계</h4>
+        <ol>
+            <li>조사목적에 따른 설문내용 구체화</li>
+            <li>심층인터뷰 대상자 선정</li>
+            <li>심층인터뷰 진행 지침 작성</li>
+        </ol>
+        <h4 style="margin-left:5%">심층인터뷰 실시</h4>
+        <ol>
+            <li>심층인터뷰 동의 절차 수행</li>
+            <li>심층인터뷰 내용 기록</li>
+            <li>심층인터뷰 내용 정리 및 분류</li>
+            <li>심층인터뷰 진행 지침에 따른 진행</li>
+        </ol>
+    </details>
+</details>
+
 ### 인덱스(Ctrl+F 활용 용도)
 아직 미구현되었습니다.
