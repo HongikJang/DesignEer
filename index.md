@@ -16,7 +16,22 @@
     </details>
     <details style="margin-left:5%">
         <summary>
-            발견 단계
+            발견 단계 - Discover
+        </summary>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            정의 단계 - Define
+        </summary>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            개발 단계 - Develop
+        </summary>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            전달 단계 - Deliver
         </summary>
     </details>
 </details>
