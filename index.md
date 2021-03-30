@@ -12,6 +12,10 @@
         <summary>
             1. 디자인 개요
         </summary>
+        <ol>
+            <li>시험용1</li>
+            <li>시험용2</li>
+        </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
