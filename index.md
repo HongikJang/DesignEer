@@ -12,7 +12,7 @@
         <summary>
             1) 디자인 개요
         </summary>
-        <h4>디자인 일반</h4>
+        <h4 style="margin-left:5%">디자인 일반</h4>
         <ol>
             <li>디자인의 개념 및 정의</li>
             <li>디자인의 분류 및 특성</li>
@@ -23,7 +23,7 @@
         <summary>
             2) 서비스·경험디자인의 이해
         </summary>
-#### 정의
+        <h4 style="margin-left:5%">정의</h4>
         <ol>
             <li>디자인씽킹의 정의</li>
             <li>서비스디자인 정의</li>
@@ -34,6 +34,12 @@
         <summary>
             3) 서비스·경험디자인 요구사항 파악
         </summary>
+        <h4 style="margin-left:5%">정의</h4>
+        <ol>
+            <li>디자인씽킹의 정의</li>
+            <li>서비스디자인 정의</li>
+            <li>경험디자인 정의</li>
+        </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
