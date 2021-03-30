@@ -1,4 +1,4 @@
-# UX위키
+# UX위키 - 경험디자인기사 자격증 취득을 위하여
 
 보다 나은 UX스터디 작업환경을 위하여 만들어놓은 페이지입니다. 추가 설명이 필요한 자료는 여기에 지속적으로 추가될 예정입니다.
 
@@ -330,75 +330,53 @@
         <summary>
             3) 서비스·경험디자인 모델개발
         </summary>
-        <h4 style="margin-left:5%">서비스·경험디자인 요구사항 정의</h4>
+        <h4 style="margin-left:5%">서비스·경험 결과물 제시</h4>
         <ol>
-            <li>디자인(문제해결) 목표 수립</li>
-            <li>친화도맵(어피니티 다이어그램) 작성</li>
-            <li>요구사항 정리(정보 시각화)</li>
-        </ol>
-        <h4 style="margin-left:5%">핵심 사용자 정의</h4>
-        <ol>
-            <li>핵심 사용자 유형 설정</li>
-            <li>핵심 사용자 요구분석</li>
-            <li>핵심 사용자 경험특성 도출</li>
-        </ol>
-        <h4 style="margin-left:5%">디자인 콘셉트 도출</h4>
-        <ol>
-            <li>디자인 원칙 정의</li>
-            <li>디자인 콘셉트 제안</li>
-            <li>디자인 콘셉트 시각화</li>
+            <li>최종 서비스·경험 모델 문서화</li>
+            <li>서비스·경험 블루프린트 작성</li>
+            <li>서비스·경험 로드맵 작성</li>
+            <li>서비스·경험 아이디어 포트폴리오 작성</li>
         </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
-            4) 서비스·경험디자인 아이데이션
+            4) 프레젠테이션
         </summary>
-        <h4 style="margin-left:5%">아이디어 워크숍</h4>
+        <h4 style="margin-left:5%">프레젠테이션 기획·제작</h4>
         <ol>
-            <li>아이디어 워크숍 계획</li>
-            <li>아이디어 워크숍 진행(퍼실리테이션 기술)</li>
-            <li>서비스 아이디어 도출</li>
-            <li>아이디어 평가 및 결과 정리</li>
-        </ol>
-        <h4 style="margin-left:5%">아이디어 구체화</h4>
-        <ol>
-            <li>서비스 아이디어 설명</li>
-            <li>서비스 아이디어 시각화</li>
-            <li>서비스 아이디어 평가 및 확정</li>
-        </ol>
-        <h4 style="margin-left:5%">서비스·경험 구조화</h4>
-        <ol>
-            <li>단계별 서비스 접점(터치포인트) 정의</li>
-            <li>사용자 서비스 설계</li>
+            <li>주제 및 방향 설정</li>
+            <li>디자인 전개과정 이해 및 발표 계획</li>
+            <li>시각적·논리적 자료의 효과적 활용</li>
         </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
-            5) 서비스·경험디자인 프로토타입 개발
+            5) 서비스·경험디자인 프로젝트 완료
         </summary>
-        <h4 style="margin-left:5%">서비스·경험디자인 프로토타입 기획·설계</h4>
+        <h4 style="margin-left:5%">완료보고서 작성</h4>
         <ol>
-            <li>프로토타입 기획</li>
-            <li>프로토타입 모델설계</li>
-            <li>프로토타입 제작 계획 수립</li>
-        </ol>
-        <h4 style="margin-left:5%">서비스·경험 프로토타입 제작</h4>
-        <ol>
-            <li>프로토타입 모델링</li>
-            <li>프로토타입 시뮬레이션</li>
+            <li>프로세스 단계별 결과 정리</li>
+            <li>단계별 문서 축약 및 편집</li>
         </ol>
     </details>
     <details style="margin-left:5%">
         <summary>
-            6) 서비스·경험디자인 시나리오 개발
+            6) 디자인 자료화
         </summary>
-        <h4 style="margin-left:5%">서비스·경험 시나리오 계획·제작</h4>
+        <h4 style="margin-left:5%">데이터베이스 관리하기</h4>
         <ol>
-            <li>서비스 시나리오 계획</li>
-            <li>페르소나 상황설정</li>
-            <li>신규 서비스 상황구성</li>
-            <li>서비스 스토리보드 제작</li>
-            <li>타당성 평가 및 개선방안 수립</li>
+            <li>최종 디자인 파일·결과물 데이터베이스화</li>
+            <li>클라이언트, 디자이너 공유 및 보존</li>
+        </ol>
+    </details>
+    <details style="margin-left:5%">
+        <summary>
+            7) 서비스·경험디자인 사후관리
+        </summary>
+        <h4 style="margin-left:5%">운영방안 제시</h4>
+        <ol>
+            <li>결과물 관리</li>
+            <li>유지보수</li>
         </ol>
     </details>
 </details>
