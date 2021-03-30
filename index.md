@@ -62,7 +62,7 @@
         </summary>
         <h4 style="margin-left:5%">수행계획 수립</h4>
         <ol>
-            <li><a href="프로젝트_목표_파악.md">프로젝트 목표 파악</a></li>
+            <li><a href="1_4_1_1.md">프로젝트 목표 파악</a></li>
             <li>일정별 계획 정리</li>
         </ol>
         <h4 style="margin-left:5%">과제 관리체계 수립</h4>
