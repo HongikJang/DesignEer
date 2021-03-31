@@ -1,4 +1,5 @@
 <meta charset="utf-8">
+<title>UX위키</title>
 
 # UX위키 - 경험디자인기사 자격증 취득을 위하여
 
